@@ -1,7 +1,7 @@
 ### Hi there, I'm Jeremy👋
 
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-Jerdak-F58025?logo=stackoverflow)]([https://stackoverflow.com/users/222233/jerdak](https://stackoverflow.com/users/222233/jerdak))
-[![ObservableHQ](https://img.shields.io/badge/ObservableHQ-Jerdak-49a5b7)]([https://observablehq.com/@jerdak]([https://stackoverflow.com/users/222233/jerdak](https://observablehq.com/@jerdak)))
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Jerdak-F58025?logo=stackoverflow)](https://stackoverflow.com/users/222233/jerdak)
+[![ObservableHQ](https://img.shields.io/badge/ObservableHQ-Jerdak-49a5b7)](https://observablehq.com/@jerdak)
 
 * I'm currently reticulating splines.
 
